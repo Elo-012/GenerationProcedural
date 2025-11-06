@@ -9,17 +9,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f3e51be4daae5674199dd25eec5f61b6, type: 3}
-  m_Name: NOISE
-  m_EditorClassIdentifier: Assembly-CSharp::Noise
+  m_Script: {fileID: 11500000, guid: e3099997c93c2d3479673684f4bc7f41, type: 3}
+  m_Name: New Terrain
+  m_EditorClassIdentifier: Assembly-CSharp::Terrain
   _maxSteps: 1000
-  frequency: 0.03
+  frequency: 1
   amplitude: 1
   lacunarity: 1
-  Persistance: 10
-  octave: 2
-  WaterHeight: 0.25
-  SandHeight: 0.45
-  GrassHeight: 0.84
+  Persistance: 1
+  octave: 3
+  WaterHeight: 1
+  SandHeight: 1
+  GrassHeight: 1
   RockHeight: 1
+  TERRAIN: {fileID: 0}
   _NOISETYPE: 0
