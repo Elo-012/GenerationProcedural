@@ -1,6 +1,4 @@
-\# 🚀 Nom du Projet
-
-
+\# GENERATION PROCEDURAL
 
 !\[Banner](./docs/banner.gif)  
 
@@ -46,9 +44,9 @@
 
 |-------|-----|
 
-| Génération de terrain | !\[Terrain](./docs/terrain.gif) |
+| Génération de terrain | !\[Terrain](./docs/test.gif) |
 
-| Parallax dynamique | !\[Parallax](./docs/parallax.gif) |
+| Parallax dynamique | !\[Parallax](docs/test.gif) |
 
 | Système de chunks | !\[Chunks](./docs/chunks.gif) |
 
