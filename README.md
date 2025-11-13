@@ -20,8 +20,8 @@
 
 | Scène                | GIF                        |
 |----------------------|----------------------------|
-| Génération de terrain | ![Terrain](docs/test.gif)  |
-| Parallax dynamique    | ![Parallax](docs/test.gif) |
+| Génération de terrain | ![Terrain](docs/Test.gif)  |
+| Parallax dynamique    | ![Parallax](docs/Test.gif) |
 | Système de chunks     | ![Chunks](docs/chunks.gif) |
 
 *(Les GIFs doivent être dans le dossier `docs/` ou hébergés en ligne)*
