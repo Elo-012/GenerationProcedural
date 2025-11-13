@@ -2,17 +2,16 @@
 
 ![Banner](docs/banner.gif)
 
-> Un générateur de mondes infinis en 2D avec biomes dynamiques et parallax.
+> DIFFERENTS SYSTEMS DE GENERATION PROCEDURAL
 
 ---
 
 ## ✨ Fonctionnalités principales
 
-- 🌍 Génération procédurale de mondes  
-- ⚙️ Gestion dynamique des chunks  
-- 🔥 Effets visuels (parallax, particules, shaders)  
-- 🧠 Système de sauvegarde automatique  
-- 💬 Interface utilisateur réactive  
+- 🌍 Simple Room Placement 
+- ⚙️ BSP
+- 🔥 Cellular Automata
+- 🧠 Noise
 
 ---
 
@@ -20,7 +19,10 @@
 
 | Scène                | GIF                        |
 |----------------------|----------------------------|
-| Génération de terrain | ![Terrain](docs/Test.gif)  |
+| Simple Room Placement
+Choisi une Zone aléatoire et place une 
+nouvelle room en vérifiant que ça ne 
+chevauche pas une autre  | ![Terrain](docs/SRP.gif)  |
 | Parallax dynamique    | ![Parallax](docs/Test.gif) |
 | Système de chunks     | ![Chunks](docs/chunks.gif) |
 
