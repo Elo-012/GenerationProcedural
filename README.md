@@ -19,7 +19,7 @@
 
 | Scène                | GIF                        |
 |----------------------|----------------------------|
-| Simple Room Placement Choisi une Zone aléatoire et place une nouvelle room en vérifiant que ça ne chevauche pas une autre  | !(docs/SRP.gif)  |
+| Simple Room Placement Choisi une Zone aléatoire et place une nouvelle room en vérifiant que ça ne chevauche pas une autre  | ![Terrain](docs/SRP.gif)  |
 | Parallax dynamique    | ![Parallax](docs/Test.gif) |
 | Système de chunks     | ![Chunks](docs/chunks.gif) |
 
