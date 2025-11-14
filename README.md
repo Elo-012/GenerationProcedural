@@ -22,7 +22,7 @@
 
 ## 🎮 GENERATION PROCEDURAL AVEC NOISE
 
-| Scène                | GIF                        |
+|                 | Lien                        |
 |----------------------|----------------------------|
 |Noise : |https://auburn.github.io/FastNoiseLite/|
 |Script : |https://github.com/Auburn/FastNoiseLite|
