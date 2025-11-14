@@ -1,12 +1,9 @@
 # GENERATION PROCEDURAL
 
-![Banner](docs/banner.gif)
-
-> DIFFERENTS SYSTEMS DE GENERATION PROCEDURAL
-
 ---
 
-## ✨ Fonctionnalités principales
+## ✨ DIFFERENTS SYSTEMS DE GENERATION PROCEDURAL
+
 
 - Simple Room Placement 
 - BSP
