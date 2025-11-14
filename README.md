@@ -27,6 +27,9 @@
 |Noise : |https://auburn.github.io/FastNoiseLite/|
 |Script : |https://github.com/Auburn/FastNoiseLite|
 
+Les zones blanches dans le noise sont = a 1 et le noir a -1.
+Il y'a différents type de noise qui permets de manier différemment le dégradé ou la forme des zones.
+On peut ensuite l'utiliser pour placer du relief, des couleurs...
 ---
 
 ## 🛠️ Installation
